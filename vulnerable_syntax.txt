@@ -1,0 +1,20 @@
+pymetasploit3, Discover hidden Vulnerabilities, 3
+socket, Port Scanning and Port Sniffing, 3
+NMap, Network Scanner Tool, 2
+twisted, Network Scanner Tool, 2
+scapy, Packet Processing Decoding Forging and Analysing Packet Information, 3
+YARA, Malware Identification, 3
+Cryptography, Implementing cryptographic Algorithm, 2
+python-NMap, Network Scanner Tool, 2
+pylibnet, Packet Injection and Frame Sniffing, 3
+impacket, work with Network Protocol and provide Low-Level programmatic Access, 3
+pwntool, Used to Automating Reverse Engineering Penetration Test and create Exploits, 3
+faker, Used to generate Fake information, 2
+os, Used to Access Operating System Files, 2
+sys, Used to Access system files and can run cmd or terminal commands, 2
+tempfile, used to access temporary files, 1
+exec, Used to Execute command and can be used to run cmd or terminal Command, 2
+eval, will execute commands , 1
+compile, will execute any commands, 2
+"Software\Microsoft\Windows\CurrentVersion\Run", Helps Malware to run each time a user logs on, 3
+subprocess, To create process for notepad and open attacks, 3
